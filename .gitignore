@@ -1,6 +1,10 @@
 # Created by https://www.toptal.com/developers/gitignore/api/ansible,terraform,nextjs
 # Edit at https://www.toptal.com/developers/gitignore?templates=ansible,terraform,nextjs
 
+### MkDocs ###
+site/
+
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
